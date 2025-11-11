@@ -1,4 +1,5 @@
 // app/page.tsx
+import AbuShuhabChat from "@/components/AbuShuhabChat";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -289,6 +290,8 @@ export default function Page() {
           height={26}
         />
       </Link>
+            <AbuShuhabChat />
+
     </main>
   );
 }
@@ -323,5 +326,8 @@ function SectionBlock({ section }: { section: Section }) {
         ))}
       </ul>
     </section>
+    
   );
+        <AbuShuhabChat />
+
 }
