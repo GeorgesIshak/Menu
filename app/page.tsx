@@ -84,9 +84,9 @@ const MENU_SECTIONS: Section[] = [
         ingredients: "-",
         price: "٣٠٬٠٠٠ ل.ل",
       },
-      {
-        id: "pepsi",
-        name: "بيبسي دايت / بيبسي زيرو / ميرندا",
+       {
+        id: "soft-drinks",
+        name: "مشروبات غازية",
         ingredients: "-",
         price: "٧٠٬٠٠٠ ل.ل",
       },
