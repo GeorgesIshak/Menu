@@ -54,9 +54,9 @@ const MENU_SECTIONS: Section[] = [
                   { id: "soda-chicken", name: "سودا دجاج", ingredients: "ثوم، كبيس، بطاطا، دبس رمان", price: "٢٥٠٬٠٠٠ ل.ل" },
 
 
-      { id: "crispy-sandwich", name: "كريسبي", ingredients: "دجاج مقرمش، ملفوف، كبيس، بطاطا، باربكيو", price: "٤٠٠٬٠٠٠ ل.ل" },
+      { id: "crispy-sandwich", name: "كريسبي", ingredients: "دجاج مقرمش، ملفوف، كبيس، بطاطا", price: "٤٠٠٬٠٠٠ ل.ل" },
       { id: "fajita-chicken", name: "فاهيتا", ingredients: "دجاج متبل، بصل، فليفلة، فطر، درة، صوص افوكا", price: "٦٠٠٬٠٠٠ ل.ل" },
-      { id: "potato-sandwich", name: "ساندويش بطاطا", ingredients: "بطاطا، ثوم، كبيس، ملفوف، صوص", price: "١٠٠٬٠٠٠ ل.ل" },
+      { id: "potato-sandwich", name: "ساندويش بطاطا", ingredients: "بطاطا، ثوم، كبيس، ملفوف، صوص", price: "١٥٠٬٠٠٠ ل.ل" },
       { id: "potato-double", name: "بطاطا دبل", ingredients: "بطاطا، ثوم، كبيس، ملفوف، صوص", price: "٢٠٠٬٠٠٠ ل.ل" },
       { id: "potato-cheese-besmon", name: "بطاطا مع جبنة بسمون", ingredients: "بطاطا، جبنة بسمون، ملفوف، صوص", price: "٣٠٠٬٠٠٠ ل.ل" },
             { id: "grilled-chicken-slices", name: "شرحات مطفاية", ingredients: "شرحات دجاج مطفاية بالتوم والحامض، سمون، كريم توم، بطاطا، كبيس خيار", price: "٤٠٠٬٠٠٠ ل.ل" },
