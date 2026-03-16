@@ -28,7 +28,7 @@ const MENU_SECTIONS: Section[] = [
     items: [
       { id: "shawarma-small", name: "شاورما دجاج صغير", ingredients: "شاورما، ثوم، كبيس، بطاطا", price: "٣٥٠٬٠٠٠ ل.ل" },
       { id: "shawarma-large", name: "شاورما دجاج كبير", ingredients: "شاورما، ثوم، كبيس، بطاطا", price: "٤٠٠٬٠٠٠ ل.ل" },
-      { id: "shawarma-double-extra", name: "شاورما دبل اكسترا", ingredients: "شاورما، ثوم، كبيس، بطاطا", price: "٨٠٠٬٠٠٠ ل.ل" },
+      { id: "shawarma-double-extra", name: "شاورما دبل اكسترا", ingredients: "شاورما، ثوم، كبيس، بطاطا", price: "٦٥٠٬٠٠٠ ل.ل" },
       { id: "shawarma-special", name: "شاورما سبيسيال", ingredients: "شاورما، جبنة، ذرة، فطر، بطاطا", price: "٥٥٠٬٠٠٠ ل.ل" },
       { id: "shawarma-bania", name: "شاورما بانية", ingredients: "شاورما، جبنة، ذرة، فطر، مقلية", price: "٥٥٠٬٠٠٠ ل.ل" },
     ],
@@ -55,7 +55,7 @@ const MENU_SECTIONS: Section[] = [
 
 
       { id: "crispy-sandwich", name: "كريسبي", ingredients: "دجاج مقرمش، ملفوف، كبيس، بطاطا", price: "٤٠٠٬٠٠٠ ل.ل" },
-      { id: "fajita-chicken", name: "فاهيتا", ingredients: "دجاج متبل، بصل， فليفلة， فطر， درة， صوص افوكا", price: "٧٠٠٬٠٠٠ ل.ل" },
+      { id: "fajita-chicken", name: "فاهيتا", ingredients: "دجاج متبل، بصل， فليفلة， فطر， درة， صوص افوكا", price: "٦٠٠٬٠٠٠ ل.ل" },
       { id: "potato-sandwich", name: "ساندويش بطاطا", ingredients: "بطاطا، ثوم، كبيس، ملفوف، صوص", price: "١٥٠٬٠٠٠ ل.ل" },
       { id: "potato-double", name: "بطاطا دبل", ingredients: "بطاطا، ثوم، كبيس، ملفوف، صوص", price: "٢٥٠٬٠٠٠ ل.ل" },
       { id: "potato-cheese-besmon", name: "بطاطا مع جبنة بسمون", ingredients: "بطاطا، جبنة بسمون، ملفوف، صوص", price: "٣٥٠٬٠٠٠ ل.ل" },
